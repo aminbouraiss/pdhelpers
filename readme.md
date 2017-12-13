@@ -8,6 +8,9 @@ Pandas Helper is a collection of helper methods for pandas DataFrames.
  - numpy http://www.numpy.org/
  - pandas https://pandas.pydata.org
 
+## Documentation:
+The full documentation is available [here](http://pandas-helpers.readthedocs.io/en/latest/notebook.html).
+
 ## Install
 
 ### Simple installation
