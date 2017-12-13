@@ -2,9 +2,6 @@
 
 Pandas Helper is a collection of helper methods for pandas DataFrames.
 
-## Documentation:
-The full documentation is available [here](www.documentation.com).
-
 ## Requirements:
 
  - iPython https://ipython.org
